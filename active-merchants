@@ -1,5 +1,5 @@
 // 20190301104350
-// https://api.anypay.global/active-merchants
+// https://raw.githubusercontent.com/malemon/mapdata/master/active-merchants
 
 {
   "merchants": [
