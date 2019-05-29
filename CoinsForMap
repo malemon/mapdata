@@ -11,7 +11,10 @@ TIME DATA
 "oneWeek":[{"id":164},{"id":176},{"id":213},{"id":221},{"id":290}]
 "threeMonths":[{"id":16},{"id":159},{"id":160}]
 
-COIN DATA
+CURRENT COIN DATA
+[{"id":1153,"currency":"ZEN"},{"id":16,"currency":"ZEN"},{"id":1527,"currency":"DASH"}]
+
+DESIRED COIN DATA
 "BCH":[{"id":164},{"id":176},{"id":213},{"id":221},{"id":290}]
 "DASH":[{"id":164},{"id":176},{"id":213},{"id":290}]
 
